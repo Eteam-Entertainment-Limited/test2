@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="s08_ar_marker" size="100.000000 106.562851" />
+    <ImageTarget name="s07_ar_marker" size="100.000000 100.000000" />
+    <ImageTarget name="s06_ar_marker" size="100.000000 93.942307" />
+    <ImageTarget name="s05_ar_marker" size="100.000000 100.000000" />
+    <ImageTarget name="s04_ar_marker" size="100.000000 79.871323" />
+    <ImageTarget name="s03_ar_marker" size="100.000000 95.307610" />
+    <ImageTarget name="s02_ar_marker" size="100.000000 99.903381" />
+    <ImageTarget name="s01_ar_marker" size="100.000000 101.927437" />
+  </Tracking>
+</QCARConfig>
